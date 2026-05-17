@@ -1,23 +1,23 @@
-# EconoScope - Global Inflation & Economic Analysis
+# 🌍 EconoScope — Global Inflation & Economic Analysis
 
 An exploratory data analysis of global inflation trends across 212 countries from 1970 to 2022. The project covers headline CPI trends, country comparisons, inflation type breakdowns and decade-by-decade heatmaps.
 
 ---
 
-## Table of Contents
+## 📋 Table of Contents
 
-- Project Overview
-- Key Questions Answered
-- Visualizations
-- Technologies Used
-- Project Structure
-- How to Run
-- Key Findings
-- Author
+- 🎯 Project Overview
+- 📊 Key Questions Answered
+- 📈 Visualizations
+- 🛠️ Technologies Used
+- 📁 Project Structure
+- 🚀 How to Run
+- 💡 Key Findings
+- 👨‍💻 Author
 
 ---
 
-## Project Overview
+## 🎯 Project Overview
 
 This project analyses the **Global Inflation Dataset** sourced from the IMF and World Bank, covering 212 countries across five decades. The dataset includes five inflation types: Headline CPI, Food CPI, Energy CPI, Core CPI and Producer Price Inflation.
 
@@ -30,7 +30,7 @@ The analysis focuses on:
 
 ---
 
-## Key Questions Answered
+## 📊 Key Questions Answered
 
 - How has global average inflation changed since 1970?
 - Which countries had the highest inflation in 2022?
@@ -40,7 +40,7 @@ The analysis focuses on:
 
 ---
 
-## Visualizations
+## 📈 Visualizations
 
 ### Global Average Inflation Trend (1970-2022)
 ![Global Trend](outputs/global_inflation_trend.png)
@@ -59,7 +59,7 @@ The analysis focuses on:
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **Language:** Python 3.12
 - **Data Manipulation:** Pandas, NumPy
@@ -68,16 +68,16 @@ The analysis focuses on:
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 EconoScope/
-├── analysis.ipynb          <- Main analysis notebook
+├── analysis.ipynb          ← Main analysis notebook
 ├── requirements.txt
 ├── LICENSE
 ├── README.md
 ├── data/
-│   └── Global Dataset of Inflation.csv   <- Not tracked by git
+│   └── Global Dataset of Inflation.csv   ← Not tracked by git
 └── outputs/
     ├── global_inflation_trend.png
     ├── country_comparison.png
@@ -88,7 +88,7 @@ EconoScope/
 
 ---
 
-## How to Run
+## 🚀 How to Run
 
 **1. Install dependencies:**
 ```bash
@@ -104,9 +104,11 @@ Get the CSV from [Kaggle](https://www.kaggle.com/datasets/belayethossainds/globa
 jupyter notebook analysis.ipynb
 ```
 
+Run all cells top to bottom. Charts will be saved automatically to `outputs/`.
+
 ---
 
-## Key Findings
+## 💡 Key Findings
 
 - Global average inflation peaked in the **1970s and 1980s**, driven by oil crises
 - **Turkey** shows consistently high and rising inflation across all decades
@@ -116,8 +118,8 @@ jupyter notebook analysis.ipynb
 
 ---
 
-## Author
+## 👨‍💻 Author
 
-**Berke Arda Turk**
-Data Science & AI Enthusiast | Computer Science (B.ASc)
-[Portfolio](https://berkeardaturk.com) · [LinkedIn](https://www.linkedin.com/in/berke-arda-turk/) · [GitHub](https://github.com/Mood07)
+**Berke Arda Turk**  
+Data Science & AI Enthusiast | Computer Science (B.ASc)  
+[🌐 Portfolio](https://berkeardaturk.com) · [💼 LinkedIn](https://www.linkedin.com/in/berke-arda-turk/) · [🐙 GitHub](https://github.com/Mood07)
