@@ -111,7 +111,7 @@ Run all cells top to bottom. Charts will be saved automatically to `outputs/`.
 ## 💡 Key Findings
 
 - Global average inflation peaked in the **1970s and 1980s**, driven by oil crises
-- **Turkey** shows consistently high and rising inflation across all decades
+- **Brazil** and **Argentina** experienced extreme hyperinflation in the 1980s and early 1990s
 - **Japan** maintained near-zero inflation for decades, a unique economic phenomenon
 - Food and energy inflation tend to spike higher than headline CPI during crises
 - The **2020-2022** period saw a sharp global inflation rise post-COVID across all economies
